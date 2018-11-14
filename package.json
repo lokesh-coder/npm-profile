@@ -1,0 +1,20 @@
+{
+  "name": "@lok/esh",
+  "version": "1.0.0",
+  "description": "Personal profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node ./index.js"
+  },
+  "author": "Lokesh",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.0.0",
+    "caporal": "^0.10.0",
+    "chalk": "^2.4.1"
+  },
+  "bin": {
+    "lokesh": "./index.js"
+  }
+}
