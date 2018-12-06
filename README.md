@@ -1,5 +1,9 @@
 
 
-> 
-> `npm install @lok/esh`
-> 
+```shell
+npm install @lok/esh
+```
+
+```shell
+yarn add @lok/esh
+```
