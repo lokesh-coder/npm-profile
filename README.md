@@ -1,7 +1,7 @@
 
 
 ```shell
-npm install @lok/esh
+npm install @lok/esh --save
 ```
 
 ```shell
