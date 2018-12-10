@@ -6,7 +6,7 @@
   "scripts": {
     "postinstall": "node ./index.js"
   },
-  "author": "Lokesh",
+  "author": "Lokesh Rajendran",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.0.0",
