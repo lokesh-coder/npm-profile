@@ -9,7 +9,7 @@ prog
     console.log(boxen(
 `${hello}!
 
-I am Lokesh, from Bangalore, India.`,
+I am Lokesh, UI Developer, from India.`,
        {padding: 1,borderStyle:'double',float:'left',align:'left'}));
   });
  
