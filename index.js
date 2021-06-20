@@ -5,11 +5,11 @@ const chalk = require('chalk');
 prog
   .version('1.0.0')
   .action(function(args, options, logger) {
-    let hello =chalk.blue.bold('Hello');
+    let hello =chalk.blue.bold('Hello!');
     console.log(boxen(
 `${hello}!
 
-I am Lokesh, UI Developer, from India.`,
+I am Lokesh. UI Developer, from India.`,
        {padding: 1,borderStyle:'double',float:'left',align:'left'}));
   });
  
